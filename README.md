@@ -6,8 +6,6 @@
 ![Made with](https://img.shields.io/badge/made%20with-Google%20Apps%20Script-blue.svg)
 ![Forks](https://img.shields.io/github/forks/Dmitze/VolunteerLetter?style=social)
 
-# 📄 VolunteerLetter — Автоматизована генерація волонтерських документів
-
 **Проєкт репозиторія:** [VolunteerLetter](https://github.com/Dmitze/VolunteerLetter)  
 **Автор:** [@Dmitze](https://github.com/Dmitze)  
 **Тип скрипта:** Google Apps Script для Google Sheets / Google Docs / Google Forms
