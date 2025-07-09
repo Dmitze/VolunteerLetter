@@ -60,11 +60,4 @@
 
 Тип події: Після надсилання
 
-📂 Файлова структура
 
-VolunteerLetter/
-├── Code.gs
-├── README.md
-├── LICENSE
-├── .gitignore
-└── CONTRIBUTING.md
