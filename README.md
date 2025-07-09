@@ -1,3 +1,11 @@
+
+# 📄 VolunteerLetter — Автоматизована генерація волонтерських документів
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Made with](https://img.shields.io/badge/made%20with-Google%20Apps%20Script-blue.svg)
+![Forks](https://img.shields.io/github/forks/Dmitze/VolunteerLetter?style=social)
+
 # 📄 VolunteerLetter — Автоматизована генерація волонтерських документів
 
 **Проєкт репозиторія:** [VolunteerLetter](https://github.com/Dmitze/VolunteerLetter)  
@@ -61,9 +69,4 @@
 Тип події: Після надсилання
 
 # 📄 VolunteerLetter — Автоматизована генерація волонтерських документів
-
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Made with](https://img.shields.io/badge/made%20with-Google%20Apps%20Script-blue.svg)
-![Forks](https://img.shields.io/github/forks/Dmitze/VolunteerLetter?style=social)
 
