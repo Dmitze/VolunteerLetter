@@ -1,6 +1,6 @@
 function generateNextDocumentsBatch() {
-  const templateDocId = "1y0sQ1Ows5yGIvpSTgeD44KtAvBzlAcxKMKPWvxnSP28";
-  const folderId      = "1EQPtbMlqIxUo1m21Tsf4jS2nGEenVs1K";
+  const templateDocId = "";
+  const folderId      = "";
   const sheetName     = "VolunteerLetter";
   const statusColumn  = 8;
 
